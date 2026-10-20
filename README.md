@@ -26,4 +26,4 @@ Kotlin și Jetpack Compose pentru ecrane, Room pentru datele salvate
 pe telefon, ViewModel pentru starea aplicației.
 
 ## Autori
-Buda Maria, Cristea Diana
+Buda Maria, Cristea Diana - grupa 1.2
